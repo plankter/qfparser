@@ -1,0 +1,2 @@
+# qfparser
+QuakeFinder data parser
